@@ -18,3 +18,5 @@ document.onclick = function(event){
         alert(target.innerHTML.substr(3));
     }
 };
+
+document.onclick = function(event)
