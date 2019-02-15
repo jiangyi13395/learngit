@@ -18,7 +18,3 @@ document.onclick = function(event){
         alert(target.innerHTML.substr(3));
     }
 };
-
-
-
-var lllist = document.getElementById('olist');
