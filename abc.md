@@ -21,7 +21,4 @@ document.onclick = function(event){
 
 
 
-var olist = document.getElementById('olist');
-olist.addEventListener('click',function(){
-    alert(event.target.innerText);
-},false);
+var lllist = document.getElementById('olist');
